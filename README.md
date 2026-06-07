@@ -1,4 +1,4 @@
-# Hermes Memory System
+# Hermem Memory System
 
 > Structured, self-improving long-term memory for your [Hermes Agent](https://github.com/NousResearch/hermes-agent).  
 > Never repeat yourself across sessions again.
