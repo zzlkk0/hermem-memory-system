@@ -10,7 +10,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/hermes-memory-system.git
+git clone https://github.com/zzlkk0/hermes-memory-system.git
 cd hermes-memory-system
 
 # Copy skill to Hermes

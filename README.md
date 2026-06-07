@@ -53,7 +53,7 @@ A three-tier memory system that's **transparent** (plain Markdown files you can 
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/hermes-memory-system.git
+git clone https://github.com/zzlkk0/hermes-memory-system.git
 
 # 2. Install the skill
 cp -r hermes-memory-system/skills/hierarchical-memory ~/.hermes/skills/productivity/
@@ -163,4 +163,4 @@ PRs welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Author
 
-Created with [Hermes Agent](https://github.com/NousResearch/hermes-agent) by [@YOUR_USERNAME](https://github.com/YOUR_USERNAME).
+Created with [Hermes Agent](https://github.com/NousResearch/hermes-agent) by [@zzlkk0](https://github.com/zzlkk0).
