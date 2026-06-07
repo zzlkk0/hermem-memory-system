@@ -1,0 +1,24 @@
+# Never commit personal notes or session data
+notes/
+sessions/
+*.tar.gz
+backups/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hermes
+.hermes/
