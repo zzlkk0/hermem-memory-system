@@ -2,7 +2,7 @@
 
 > Structured, self-improving long-term memory for your [Hermes Agent](https://github.com/NousResearch/hermes-agent).  
 > Never repeat yourself across sessions again.
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/8c53b553-b5b3-4b75-ae68-4ff37b0f1da3" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/e1d84e16-8947-4169-8b1e-23b6d56531de" />
 
 ## The Problem
 
