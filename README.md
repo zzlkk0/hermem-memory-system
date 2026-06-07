@@ -54,14 +54,14 @@ A three-tier memory system that's **transparent** (plain Markdown files you can 
 
 ```bash
 # 1. Clone
-git clone https://github.com/zzlkk0/hermes-memory-system.git
+git clone https://github.com/zzlkk0/hermem-memory-system.git
 
 # 2. Install the skill
-cp -r hermes-memory-system/skills/hierarchical-memory ~/.hermes/skills/productivity/
+cp -r hermem-memory-system/skills/hierarchical-memory ~/.hermes/skills/productivity/
 
 # 3. Install the MCP server
 mkdir -p ~/.hermes/notes/mcp-servers/directory-integrity
-cp hermes-memory-system/mcp/directory-integrity/server.py ~/.hermes/notes/mcp-servers/directory-integrity/
+cp hermem-memory-system/mcp/directory-integrity/server.py ~/.hermes/notes/mcp-servers/directory-integrity/
 
 # 4. Add to ~/.hermes/config.yaml under mcp_servers:
 #   directory-integrity:
