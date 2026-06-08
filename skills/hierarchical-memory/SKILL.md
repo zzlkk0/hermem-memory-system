@@ -1,6 +1,6 @@
 ---
 name: hierarchical-memory
-description: "Use when saving facts, managing projects, or tracking environment. Core philosophy + decision tree. For details, load references: session-memory, project-tracking, backup-and-distillation."
+description: "Three-tier memory system: global facts, session files, searchable history. Load references for details."
 version: 1.2.0
 author: Hermes Agent
 license: MIT
